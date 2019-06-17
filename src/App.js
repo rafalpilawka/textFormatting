@@ -1,24 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
+import IO from './IO'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Text tool</h1>
+        <p>Text formatting tool for getting full cryptocurrency name and price</p>
       </header>
+      <IO></IO>
     </div>
   );
 }
