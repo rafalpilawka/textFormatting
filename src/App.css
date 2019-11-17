@@ -34,8 +34,8 @@
 
 .IO{
   margin-top: 100px;
-  min-height: 200px;
-  min-width: 600px;
+  height: 100px;
+  min-width: 300px;
 }
 p{
   font-size: .5em;

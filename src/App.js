@@ -9,7 +9,7 @@ function App() {
         <h1>Text tool</h1>
         <p>Text formatting tool for getting full cryptocurrency name and price</p>
       </header>
-      <IO></IO>
+      <IO/>
     </div>
   );
 }
