@@ -1,1 +1,1 @@
-Simple text formating app to exchange virtual currencies shortcuts with full names. With autocomplete and regex formula.
+Simple text formating app to exchange virtual currencies shortcuts with full names. With autocorrection and regex formula.
